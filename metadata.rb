@@ -1,0 +1,12 @@
+name 'tls_strong_crypto'
+maintainer 'Steve Brown'
+maintainer_email 'sbrown@chef.io'
+license 'Apache-2.0'
+description 'Configures TLS client contection to negotiate down from the strongest available'
+long_description 'Configures TLS client contection to negotiate down from the strongest available'
+version '0.0.1'
+chef_version '>= 14.0'
+supports 'windows'
+
+issues_url 'https://github.com/srb3/tls_strong_crypto/issues'
+source_url 'https://github.com/srb3/tls_strong_crypto'
